@@ -46,7 +46,8 @@ Here is the list [spreadsheet with full list of accounts & passwords](https://do
 | [chatops-wg-ia-js-botkit](https://github.com/fititnt/chatops-wg-ia-js-botkit) | [ia005.chatopswg.xyz](https://ia005.chatopswg.xyz) | Web | Demo ChatOps WG: Intelligent Agent with JavaScript / [Botkit](https://github.com/howdyai/botkit) |
 | [chatops-wg-infra/rocketchat](https://github.com/fititnt/chatops-wg-infra/tree/master/containers/chatopswg/rocketchat) | [rocketchat.chatopswg.xyz](https://rocketchat.chatopswg.xyz) | Rochet.Chat | Rocket.chat for testing integrations |
 | _non applicable_ | [chatopswg.slack.com](https://chatopswg.slack.com) | Slack | Slack team for testing integrations |
-| [chatops-wg-infra](https://github.com/fititnt/chatops-wg-infra) | [alpha.chatopswg.xyz](https://alpha.chatopswg.xyz) | _non applicable_ | Repository from VM that runs the I.A.s. Can ignore if you are _not DevOps_ |
+| [chatops-wg-infra](https://github.com/fititnt/chatops-wg-infra) | [alpha.chatopswg.xyz](https://alpha.chatopswg.xyz) | _non applicable_ | Repository from VM that runs the I.A.s. Can ignore if you are _not DevOps person_ |
+| [chatops-wg-datalake](https://github.com/fititnt/chatops-wg-datalake) | _See Project / Source Code_ | Web, Mobile, Desktop, IoT, etc | Research on open source tools to manage data by less specialized coworkers |
 
 
 ## Participants of the working group
@@ -58,4 +59,4 @@ more efficient.
 Participation does not involve payment. If you are not invited but have
 long-standing history in collaboration with open source, or act as a promoter
 of change on gov, NGOs, or social enterprise, you can email me at
-emerson@alligo.com.br.
+rocha@ieee.org.
